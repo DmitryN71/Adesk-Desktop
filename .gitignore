@@ -1,0 +1,17 @@
+node_modules/
+dist/
+*.log
+.claude/
+nul
+
+# Source code (private)
+*.js
+*.html
+*.css
+*.json
+*.nsh
+*.ps1
+locales/
+assets/
+scripts/
+!README.md
